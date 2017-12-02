@@ -50,7 +50,7 @@ This page will help you get started with Internationalization Project.
   * NetBeans IDE 8.2 ([JDK 8u111 with NetBeans 8.2 - Oracle](http://www.oracle.com/technetwork/es/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html))
 
 <a name="changelog"></a>
-## Changelog
+## Changelog :information_source:
 
 **1.0.0.0001** (12/01/2017)
 
@@ -85,12 +85,12 @@ This page will help you get started with Internationalization Project.
 		</tr>
 	</table>
 
-<a name="Donating"></a>
-## Donating
+<a name="Donate"></a>
+## Donate! :gift:
 
 If you want to help me to continue this project, you might donate via PayPal.
 
-<a href="https://paypal.me/ManuelFGil"><img src="https://img.shields.io/badge/donate-PayPal-blue.svg" alt="Donate via PayPal"></a>
+<a href="https://paypal.me/ManuelFGil"><img src="https://www.paypalobjects.com/webstatic/en_US/i/btn/png/btn_donate_92x26.png" alt="Donate via PayPal"></a>
 
 <a name="authors"></a>
 ## Authors

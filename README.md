@@ -26,7 +26,7 @@ See the [Internationalization and localization](https://en.wikipedia.org/wiki/In
  for details.
 
 <a name="started"></a>
-## Getting Started
+## :traffic_light: Getting Started
 
 This page will help you get started with Internationalization Project.
 
@@ -45,12 +45,12 @@ This page will help you get started with Internationalization Project.
   4. Goto "File" > "Open project" > Search "Internationalization" folder
 
 <a name="built"></a>
-## Built With
+## :wrench: Built With
 
   * NetBeans IDE 8.2 ([JDK 8u111 with NetBeans 8.2 - Oracle](http://www.oracle.com/technetwork/es/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html))
 
 <a name="changelog"></a>
-## Changelog :information_source:
+## :information_source: Changelog
 
 **1.0.0.0001** (12/01/2017)
 
@@ -86,14 +86,14 @@ This page will help you get started with Internationalization Project.
 	</table>
 
 <a name="Donate"></a>
-## Donate! :gift:
+## :gift: Donate!
 
 If you want to help me to continue this project, you might donate via PayPal.
 
 <a href="https://paypal.me/ManuelFGil"><img src="https://www.paypalobjects.com/webstatic/en_US/i/btn/png/btn_donate_92x26.png" alt="Donate via PayPal"></a>
 
 <a name="authors"></a>
-## Authors
+## :eyeglasses: Authors
 
   * **Manuel Gil** - *Initial work* - [ManuelGil](https://github.com/ManuelGil) 
 
@@ -101,7 +101,7 @@ See also the list of [contributors](https://github.com/ManuelGil/Internationaliz
  who participated in this project.
 
 <a name="license"></a>
-## License
+## :memo: License
 
 Internationalization Project is licensed under the GPL v3 License - see the
  [GNU GPL v3 License](https://www.gnu.org/licenses/gpl-3.0) for details.

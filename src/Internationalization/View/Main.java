@@ -1,3 +1,5 @@
+package Internationalization.View;
+
 //    This file is part of Internationalization Project
 //    Internationalization Free GNU Application
 //    Copyright (C) 2017 Manuel Gil.
@@ -33,7 +35,7 @@
  * @version $Revision: 1.0.0.0001 $ $Date: 12/01/2017 $
  * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  */
-package Internationalization.Presentation;
+
 
 import java.awt.BorderLayout;
 import javax.swing.JFrame;

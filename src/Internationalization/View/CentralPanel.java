@@ -33,7 +33,7 @@
  * @version $Revision: 1.0.0.0001 $ $Date: 12/01/2017 $
  * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  */
-package Internationalization.Presentation;
+package Internationalization.View;
 
 import Internationalization.Logic.MultiLanguage;
 import java.awt.event.ActionEvent;
